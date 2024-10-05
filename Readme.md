@@ -1,3 +1,4 @@
+# AI artisans - Code Optimization
 # Gen AI Playground on Intel® Data Center GPU Max 1100
 
 Welcome to the Gen AI Playground, a collection of notebooks designed to showcase generative AI workloads on Intel® Data Center GPU Max 1100. These notebooks are designed to be accessible to a broad audience, including AI creators, artists, engineers, and those who are just curious about generative AI.
@@ -65,6 +66,3 @@ import sys
 
 Simply navigate to one of the notebooks to get started! Each notebook comes with comprehensive guides and examples to help you explore the fascinating world of generative AI.
 
-## License
-
-Apache License.See [LICENSE](./LICENSE) for more details.
